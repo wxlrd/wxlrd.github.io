@@ -1,5 +1,5 @@
 var i = 0;
-var titleText = ['y','yo','yov','yovr','yovra','yovrah','yovra','yovr','yov','yo',];
+var titleText = ['w','wx','wxl','wxlr','wxlrd','wxlr','wxl','wx',];
 
 if (document.addEventListener) {
 	document.addEventListener("DOMContentLoaded", function() {
